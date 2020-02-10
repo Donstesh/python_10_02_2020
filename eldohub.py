@@ -30,3 +30,4 @@ myArray = ["stesh", "winnie", "Python", "Eldohub"]
 print(myArray)
 print(myArray[1])
 print(myArray[-1])
+print(myArray[2:3])
